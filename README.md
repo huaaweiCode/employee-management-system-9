@@ -1,10 +1,6 @@
 # 员工管理系统（简单版）
 
-## 获取方式
 
-扫描下方，回复关键词  ：**员工9** ，以获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -42,12 +38,4 @@
 ![查找员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344233.jpg)
 
 ![增加员工](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152344248.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**员工9** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
